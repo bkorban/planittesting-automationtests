@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.planittesting.swaglabs.tests.CheckoutTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.515 s <<< FAILURE! - in com.planittesting.swaglabs.tests.CheckoutTests
+verifySuccessfulOrder  Time elapsed: 3.495 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	var cannot be resolved to a type
+
+	at com.planittesting.swaglabs.tests.CheckoutTests.verifySuccessfulOrder(CheckoutTests.java:20)
+
